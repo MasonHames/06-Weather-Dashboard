@@ -9,7 +9,7 @@ Link to live program: https://masonhames.github.io/06-Weather-Dashboard/
 
 I can be contacted at M.hames@yahoo.com
 
-![Home page for Weather Dashboard](./assets/images/weather-dash.mp4)
+![Home page for Weather Dashboard](./assets/images/weather-dash.gif)
 
-![Responsive view for Weather Dashboard](./assets/images/weather-dashboard.webm)
+![Responsive view for Weather Dashboard](./assets/images/weather-dashboard.gif)
 
